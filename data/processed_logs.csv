@@ -1,0 +1,4 @@
+ip_address,username,password,attempts,severity
+127.0.0.1,root,root,22,HIGH
+127.0.0.1,admin,admin,10,MEDIUM
+192.168.1.5,user,test123,3,LOW
